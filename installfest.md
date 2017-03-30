@@ -5,3 +5,7 @@
 -mkdir = create folder
 -ls = show items in folder
 -touch = make files
+-tab = autocomplete
+-git add
+-git commit -m" fsdf"
+-git push
