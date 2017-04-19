@@ -55,3 +55,9 @@
 3. Link from ticket page to app/website to find a concert buddy
 4. Explore shows happening around the world
 5. Search upcoming shows in local area
+
+#User Personas
+![USER PERSONA JEFF THORNBERRY](Think-Launch-Project/User Persona Jeff Thornberry.jpg)
+![USER PERSONA CHARLIE TOREN](Think-Launch-Project/User Persona Charlie Toren.jpg)
+![USER PERSONA CANDANCE WHITNEY](Think-Launch-Project/User Persona Candance Whitney .jpg)
+![USER PERSONA CARLY WHITTLE](Think-Launch-Project/User Persona Carly Whittle.jpg)
