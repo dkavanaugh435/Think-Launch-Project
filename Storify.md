@@ -57,7 +57,7 @@
 5. Search upcoming shows in local area
 
 # User Personas
-![USER PERSONA JEFF THORNBERRY](Think-Launch-Project/User Persona Jeff Thornberry.jpg)
-![USER PERSONA CHARLIE TOREN](Think-Launch-Project/User Persona Charlie Toren.jpg)
-![USER PERSONA CANDANCE WHITNEY](Think-Launch-Project/User Persona Candance Whitney .jpg)
-![USER PERSONA CARLY WHITTLE](Think-Launch-Project/User Persona Carly Whittle.jpg)
+![USER PERSONA JEFF THORNBERRY](https://github.com/dkavanaugh435/Think-Launch-Project/blob/master/User%20Persona%20Jeff%20Thornberry.jpg)
+![USER PERSONA CHARLIE TOREN](https://github.com/dkavanaugh435/Think-Launch-Project/blob/master/User%20Persona%20Charlie%20Toren.jpg)
+![USER PERSONA CANDANCE WHITNEY](https://github.com/dkavanaugh435/Think-Launch-Project/blob/master/User%20Persona%20Candance%20Whitney%20.jpg)
+![USER PERSONA CARLY WHITTLE](https://github.com/dkavanaugh435/Think-Launch-Project/blob/master/User%20Persona%20Carly%20Whittle.jpg)
