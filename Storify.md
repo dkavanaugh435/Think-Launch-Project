@@ -1,6 +1,6 @@
 (Storify.md)
 
-#Direct Users
+# Direct Users
 1. Those with niche music interests
 2. Those looking to attend festivals/concerts outside of their hometown
 3. Those that had a friend bail & need a someone to go with
@@ -19,7 +19,7 @@
 6. Websites promoting shows (Bands in Town)
 7. Comedy shows/musicals/
 
-#Skeptical Questions
+# Skeptical Questions
 1. How many people actually have this problem?
 2. Who wants to go to a show with strangers?
 3. Why would venues/artists adopt this?
@@ -31,32 +31,32 @@
 9. How do you confirm that someone's not a catfish?
 
 
-#Critics
+# Critics
 1. Those uncomfortable being with strangers/wary of safety
 2. Whats the motive to want to attend with random people?
 3. Do artists/venues really need this?
 4. How large is the market for this?
 
-#Fans
+# Fans
 1. Travelers
 2. People with Niche Music interests
 3. Small Venues/Artists
 4. Last Minute Concert Buddies
 
-#Users
+# Core Users
 1. Show Seeker
 2. Concert attendees
 2. Concert Venues
 3. Music Discovers
 
-#Features
+# Features
 1. Match with concert attendees or those looking to attend a show
 2. Discover people with similar music interests
 3. Link from ticket page to app/website to find a concert buddy
 4. Explore shows happening around the world
 5. Search upcoming shows in local area
 
-#User Personas
+# User Personas
 ![USER PERSONA JEFF THORNBERRY](Think-Launch-Project/User Persona Jeff Thornberry.jpg)
 ![USER PERSONA CHARLIE TOREN](Think-Launch-Project/User Persona Charlie Toren.jpg)
 ![USER PERSONA CANDANCE WHITNEY](Think-Launch-Project/User Persona Candance Whitney .jpg)
