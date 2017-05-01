@@ -1,8 +1,6 @@
 
-html { background-image: linear-gradient( yellow 33%, light yellow 33%, dark yellow 34%); 
-}
 body {
-  
+  background-image: linear-gradient(light yellow, dark yellow); 
   margin: 0;
   padding: 0;
 }
