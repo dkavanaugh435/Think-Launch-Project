@@ -1,9 +1,9 @@
-/* I've gotten you started to show how each element lives in a box! */
-* {
-                          /* Content is the stuff IN the element */
-  padding: 10px;          /* Padding is white space AROUND content */
-  border: red 2px solid;  /* Border is the OUTLINE of the element */
-  margin: 5px;            /* Margin is the space BETWEEN elements */
+h1 {
+  color: #FFF;
+  text-transform: uppercase;
+  font-family: Georgia, Garamond, serif;
+  font-size: 32px;
+  padding-top: 100px;
+  text-align: left;
+  width: 60%;
 }
-
-/* When you're ready to write your CSS, Erase the above code! */
