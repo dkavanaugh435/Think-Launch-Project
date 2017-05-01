@@ -1,8 +1,7 @@
 
 body {
-  Background: yellow;
-  margin: 0;
-  padding: 0;
+  Background-image: linear-gradient(to bottom right, yellow, purple); 
+  width: 200px;
 }
 
 h1 {
