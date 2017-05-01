@@ -1,7 +1,7 @@
 
   body {
   /* Old browsers */
-  background: #141E30;
+  background: #e5e5e5
   /* Chrome 10-25, Safari 5.1-6 */
   background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -11,11 +11,12 @@
 }
 
 h1 {
-  color: ##ff84de;
+  color: #ff84de;
   text-transform: uppercase;
-  font-family: Georgia, Garamond, serif;
+  font-family: Tahoma, Garamond, serif;
   font-size: 32px;
   padding-top: 100px;
+  border: #5ae2b3 2px solid;
   text-align: left;
   width: 60%;
 }
