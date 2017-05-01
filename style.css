@@ -28,7 +28,21 @@ h2 {
   color: #993d6e;
   font-family: Roboto, Garamond, serif;
   font-weight: 100;
-  font-size: 22px;
+  font-size: 30px;
+  line-height: 24px;
+  padding-bottom: 15px;
+  text-align: center;
+  width: 70%;
+}
+
+h3 {
+  border: #7f93f9 8px solid;
+  word-spacing: 0.05em;
+  letter-spacing:0.02em;
+  color: #993d6e;
+  font-family: 	Minion Web, Garamond, serif;
+  font-weight: 100;
+  font-size: 30px;
   line-height: 24px;
   padding-bottom: 15px;
   text-align: center;
@@ -45,33 +59,13 @@ p {
   border: #f9997f 4px solid;
   width: 100%;
 }
+a {
+  color: #f97f93;
+  font-size: 20px;
+  font-family: Webdings;
+  text-align: center;
+  border-color: #f9997f #c67ff9;
+  
 
-.byline {
-  color: rgba(255, 255, 255, 0.5);
-  float: left;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  font-size: 14px;
-  padding-left: 10px;
-  text-transform: uppercase;
+
 }
-
-.caption {
-  background-color: rgba(0, 0, 0, 0.6);
-  color: rgba(255, 255, 255, 0.65);
-  display: block;
-  font-family: 'Playfair Display', serif;
-  font-size: 14px;
-  font-style: italic;
-  line-height: 14px;
-  margin-left: 20px;
-  padding: 10px;
-  position: relative;
-  top: 80%;
-  width: 60%;
-}
-
-.content {
-  padding: 40px;
-}
-
