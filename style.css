@@ -1,6 +1,6 @@
 
   body {
-  Background-image: linear-gradient(#f9e3e3 33%, #edf9e3 33%, #eee3f9 34%);
+  Background-image: linear-gradient( yellow 33%, light yellow 33%, dark yellow 34%);
   margin: 0;
   padding: 0;
 }
