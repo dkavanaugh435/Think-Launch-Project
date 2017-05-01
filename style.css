@@ -15,6 +15,7 @@ h1 {
   text-transform: uppercase;
   font-family: Tahoma, Garamond, serif;
   font-size: 100px;
+  font-weight: bold;
   padding: 2px;
   border: #45ada9 6px solid;
   text-align: center;
@@ -28,12 +29,13 @@ h2 {
   letter-spacing:0.02em;
   color: #993d6e;
   font-family: Roboto, Garamond, serif;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 30px;
   line-height: 24px;
   padding: 2px;
   text-align: center;
   width: 70%;
+  margin: 3px;
 }
 
 h3 {
@@ -42,12 +44,13 @@ h3 {
   letter-spacing:0.02em;
   color: #993d6e;
   font-family: 	Minion Web, Garamond, serif;
-  font-weight: 100;
+  font-weight: semi-bold;
   font-size: 30px;
   line-height: 24px;
   padding: 3px;
   text-align: center;
   width: 70%;
+  margin: 3px;
 }
 
 p {
@@ -59,6 +62,7 @@ p {
   text-align: center;
   border: #f9997f 4px solid;
   width: 70%;
+  margin: 3px;
 }
 
 a {
