@@ -1,6 +1,6 @@
 
 body {
-  background-image: linear-gradient(yellow, orange); 
+  Background: -webkit-linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
   margin: 0;
   padding: 0;
 }
