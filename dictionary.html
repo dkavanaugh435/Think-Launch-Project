@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>My Internet Dictionary</title>
+  </head>
+  <body>
+    <header title="I'm a Header!">
+      <h1 title="I'm an H1">My Internet Dictionary</h1>
+      <img title="I'm an img" src="http://www.incrediblethings.com/wp-content/uploads/2012/07/cat-votes-for-himself.jpg">
+    </header>
+    <div class="section" title="I'm a Section Div">
+      <h2 title="I'm an H2">Top 10 Terms</h2>
+      <p title="I'm a p">Today, during the ThinkLaunch session Wireframe DEUX, We learned quite a bit of vocabulary! Here are my top 10 terms I didn't know before:</p>
+      <div class="definition" title="I'm a Definition Div!">
+        <h3>Syntax</h3>
+        <p>Like any language, HTML comes with a set of rules. These rules are relatively simple. It comes down to defining boundaries, to know where something starts and where something ends.</p>
+        <a href="http://marksheet.io/html-syntax.html">HTML Syntax</a>
+      </div>
+      <div class="definition">
+        <h3 title="I'm an H3!">Tag</h3>
+        <p>HTML tags are the hidden keywords within a web page that define how the browser must format and display the content. Most tags must have two parts, an opening and a closing part. For example, <pre title="i'm a pre tag for code!"> < html > is the opening tag and < / html > is the closing tag.</pre></p>
+        <a href="https://en.wikipedia.org/wiki/HTML_element#Elements_vs._tags">Elements Vs. Tags</a>
+      </div>
+      <div class="definition">
+        <h3>Element</h3>
+        <p>An HTML element is an individual component of an HTML document or web page, once this has been parsed into the Document Object Model. HTML is composed of a tree of HTML nodes, such as text nodes. Each node can have HTML attributes specified.</p>
+        <a href="http://htmldog.com/guides/html/beginner/tags/">Article Elements, Tags and Attributes</a>
+      </div>
+      <div class="definition">
+        <h3>Class</h3>
+        <p>The class attribute specifies one or more classnames for an element. The class attribute is mostly used to point to a class in a style sheet. However, it can also be used by a JavaScript (via the HTML DOM) to make changes to HTML elements with a specified class.</p>
+        <a href="https://www.sitepoint.com/web-foundations/class-html-attribute/">Class HTML Attribute</a>
+      </div>
+      <div class="definition">
+        <h3>ID</h3>
+        <p>The id attribute specifies a unique id for an HTML element (the value must be unique within the HTML document). The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to manipulate the element with the specific id. Used for Definition and Usage. </p>
+        <a href="https://www.w3schools.com/tags/att_global_id.asp">the global "id" Attribute</a>
+      </div>
+      <div class="definition">
+        <h3>Attribute</h3>
+        <p>Attributes provide additional information about HTML elements. using a name="value" format.</p>
+        <a href="https://www.tutorialspoint.com/html/html_attributes.htm">HTML Attributes</a>
+      </div>
+      <div class="definition">
+        <h3>Selector</h3>
+        <p>CSS selectors are used to "find" (or select) HTML elements based on their element name, id, class, attribute, and more.</p>
+        <a href="https://css-tricks.com/how-css-selectors-work/">How CSS Selectors Work</a>
+      </div>
+      <div class="definition">
+        <h3>Block</h3>
+        <p>Block is a term that helps describe how much space an element will take up. Think of the phrase "taking up the whole block" and envision someone greedily taking up the whole street, no one else can be there.</p>
+        <a href="https://www.w3schools.com/html/html_blocks.asp">Block and inline Elements</a>
+      </div>
+      <div class="definition">
+        <h3>Client</h3>
+        <p>A Client is the "user side" of the connection to the work happening on the internet.</p>
+        <a href="https://techterms.com/definition/client">Link To more info</a>
+      </div>
+      <div class="definition">
+        <h3>Server</h3>
+        <p>A server is a computer or computer program that manages access to a centralized resource or service in a network.</p>
+        <a href="https://techterms.com/definition/server">Link to more info</a>
+      </div>
+    </div>
+    <footer>
+      <p>Made with Love by <a href="#">Kara C</a></p>
+      <p>Styled out by <span>WRITE YOUR NAME HERE!!</span></p>
+    </footer>
+  </body>
+</html>
