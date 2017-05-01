@@ -14,35 +14,35 @@ h1 {
   color: #a54395;
   text-transform: uppercase;
   font-family: Tahoma, Garamond, serif;
-  font-size: 32px;
-  padding-top: 100px;
-  border: #45ada9 2px solid;
+  font-size: 100px;
+  padding-top: 10px;
+  border: #45ada9 6px solid;
   text-align: center;
   width: 60%;
 }
 
 h2 {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border: #79bc5c 3px solid;
   word-spacing: 0.05em;
   letter-spacing:0.02em;
-  color: rgba(255, 255, 255, 0.5);
-  font-family: Georgia, Garamond, serif;
+  color: #993d6e;
+  font-family: Roboto, Garamond, serif;
   font-weight: 100;
   font-size: 22px;
-  font-style: italic;
   line-height: 24px;
-  padding-bottom: 30px;
-  text-align: left;
+  padding-bottom: 15px;
+  text-align: center;
   width: 70%;
 }
 
 p {
-  color: AliceBlue;
+  color: #74c1db;
   font-size: 20px;
   font-family: Helvetica, Arial, sans-serif;
   font-weight:100;
   line-height: 1.7em;
-  text-align: left;
+  text-align: center;
+  border: #f9997f 4px solid;
   width: 100%;
 }
 
@@ -75,17 +75,3 @@ p {
   padding: 40px;
 }
 
-.image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
-  background-size: cover;
-  background-position: center;
-  height: 300px;
-}
-
-.writer-img {
-  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  float: left;
-  width: 50px;
-}
