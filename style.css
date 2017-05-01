@@ -16,10 +16,11 @@ h1 {
   font-family: Tahoma, Garamond, serif;
   font-size: 100px;
   font-weight: bold;
-  padding: 2px;
+  padding: 10px;
   border: #45ada9 6px solid;
   text-align: center;
   width: 80%; 
+  text-shadow: 0 2px 5px #a54395;
     
 }
 
@@ -32,7 +33,7 @@ h2 {
   font-weight: 300;
   font-size: 30px;
   line-height: 24px;
-  padding: 2px;
+  padding: 5px;
   text-align: center;
   width: 70%;
   margin: 6px;
@@ -47,7 +48,7 @@ h3 {
   font-weight: semi-bold;
   font-size: 30px;
   line-height: 24px;
-  padding: 3px;
+  padding: 5px;
   text-align: center;
   width: 70%;
   margin: 6px;
