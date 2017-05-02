@@ -16,6 +16,9 @@ h1 {
   
     
 }
+img {
+  margin: 5px;
+}
 
 h2 {
   box-sizing: border-box;
