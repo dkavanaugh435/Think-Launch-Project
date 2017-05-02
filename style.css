@@ -1,7 +1,6 @@
 body {
   background-color: yellow;
-  width: auto;
-  max-height: 500px;
+  background-size: auto auto;
 }
 h1 {
   color: #a54395;
