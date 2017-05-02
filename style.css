@@ -1,7 +1,6 @@
 
 body {
-  background-image: linear-gradient(to bottom right, yellow, purple);
-  background-size: contain;
+  background-image: linear-gradient(to bottom right, yellow, purple); width: 50px;
 }
 
 h1 {
