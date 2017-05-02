@@ -1,6 +1,6 @@
 body {
   background-color: yellow;
-  max-width: 100px;
+  width: auto;
   max-height: 500px;
 }
 h1 {
