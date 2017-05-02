@@ -18,21 +18,18 @@ h1 {
 }
 
 h2 {
+  box-sizing: border-box;
   border: #79bc5c 3px solid;
   word-spacing: 0.05em;
   letter-spacing:0.02em;
   color: #993d6e;
   font-family: Roboto, Garamond, serif;
-  font-weight: 300;
   font-size: 30px;
-  line-height: 24px;
-  padding: 5px;
   text-align: center;
-  margin: 6px;
 }
 
 h3 {
-  border: #7f93f9 8px solid;
+  border: #7f93f9 8px dashed;
   word-spacing: 0.05em;
   letter-spacing:0.02em;
   color: #993d6e;
