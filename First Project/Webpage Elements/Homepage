@@ -3,4 +3,45 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title> Name of Company </title>
+  </head>
+
+  <body>
+
+<img id="Logo" src="Think-Launch-Project/First Project/Webpage Elements/logo-tv-logo.png" alt= "logo">
+
+</body>
+<div class ="header">
+  <div id = "homepage header">
+    <h1> Welcome (fill this in) </h1>
+  </div>
+</div>
+
+<div class ="music value props">
+  <div class="prop">
+    <h2> Discover </h2>
+  </div>
+
+  <div class= "prop">
+    <h2> Connect </h2>
+  </div>
+
+  <div class ="prop">
+    <h2> Browse </h2>
+  </div>
+</div>
+
+<div class= "special shows">
+  <div id= "Near You">
+    <h3> Upcoming Shows Near You</h3>
+  </div>
+
+  <div id = "Trending">
+    <h3> Trending Shows</h3>
+  </div>
+
+  <div id = "New Artists">
+    <h3> Rising Artists </h3>
+  </div>
+</div>
