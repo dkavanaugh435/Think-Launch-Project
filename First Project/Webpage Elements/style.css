@@ -17,9 +17,17 @@ padding: 0;
   background-image: url("https://github.com/dkavanaugh435/Think-Launch-Project/blob/master/First%20Project/Webpage%20Elements/Images/pexels-photo.jpg");
   background-position: center;
   background-size: cover;
+  font-family: Calibri;
+  font-size: 20px;
 }
+
 
 #homepage-header {
   text-align: center;
   top: 25%
+}
+
+.prop {
+  border: 2px;
+  padding: 40px;
 }
