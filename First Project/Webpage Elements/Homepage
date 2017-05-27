@@ -19,15 +19,15 @@
 </div>
 
 <div class ="music value props">
-  <div class="prop">
+  <div id="prop1">
     <h2> Discover </h2>
   </div>
 
-  <div class= "prop">
+  <div id= "prop2">
     <h2> Connect </h2>
   </div>
 
-  <div class ="prop">
+  <div id ="prop3">
     <h2> Browse </h2>
   </div>
 </div>

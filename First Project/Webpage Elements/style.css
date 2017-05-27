@@ -8,13 +8,13 @@ padding: 0;
 #Logo {
   position: fixed;
   top: 5%;
-  right: 5%;
+  left: 5%;
   width: 100px;
   height: 50px;
 
 }
 .header {
-  background-image: url("https://github.com/dkavanaugh435/Think-Launch-Project/blob/master/First%20Project/Webpage%20Elements/Images/pexels-photo.jpg");
+  background-image: src="Think-Launch-Project/First Project/Webpage Elements/Images/pexels-photo.jpg";
   background-position: center;
   background-size: cover;
   font-family: Calibri;
@@ -24,10 +24,15 @@ padding: 0;
 
 #homepage-header {
   text-align: center;
-  top: 25%
+  top: 50%
 }
 
-.prop {
+.value-props h2{
+  font-family: Calibri;
+  font-size: 10px;
+
+}
+#prop1 {
   border: 2px;
   padding: 40px;
 }
