@@ -18,14 +18,16 @@ padding: 0;
   background-image: url("https://raw.githubusercontent.com/dkavanaugh435/Think-Launch-Project/master/First%20Project/Webpage%20Elements/Images/lights-party-dancing-music.jpg");
   background-position: center;
   background-size: cover;
-  font-family: Calibri;
-  font-size: 20px;
+  height: 500px;
+  width: 80%;
 }
 
 
 #homepage-header {
   text-align: center;
   top: 50%
+  font-family: Calibri;
+  font-size: 20px;
 }
 
 .value-props h2{
