@@ -32,10 +32,18 @@ padding: 0;
 
 .value-props h2{
   font-family: Calibri;
-  font-size: 10px;
-
+  font-size: 15px;
+  width: 100%;
 }
 #prop1 {
-  border: 2px;
+  width: 25%
+}
+
+#prop2 {
+  width: 25%
+}
+
+#prop3 {
   padding: 40px;
+  width: 25%
 }
