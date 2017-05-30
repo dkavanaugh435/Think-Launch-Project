@@ -9,16 +9,17 @@
 
   <body>
 
-<img id="Logo" src="Think-Launch-Project/First Project/Webpage Elements/logo-tv-logo.png" alt= "logo">
+<img src="Think-Launch-Project/First Project/Webpage Elements/logo-tv-logo.png" id="Logo" alt= "logo">
+
 
 </body>
 <div class ="header">
   <div id = "homepage-header">
     <h1> Welcome (fill this in) </h1>
   </div>
+  <img src="Think-Launch-Project/First Project/Webpage Elements/Images/lights-party-dancing-music.jpg" id="header-image" alt="header">
 </div>
-
-<div class ="music value props">
+<div class ="value-props">
   <div id="prop1">
     <h2> Discover </h2>
   </div>
