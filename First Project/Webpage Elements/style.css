@@ -16,12 +16,12 @@ padding: 0;
 }
 .header {
   background-image: url("https://raw.githubusercontent.com/dkavanaugh435/Think-Launch-Project/master/First%20Project/Webpage%20Elements/Images/lights-party-dancing-music.jpg");
-  background-position: center;
   background-size: cover;
   height: 500px;
   top: 25%;
   width: 80%;
   left: 20%;
+  padding-bottom: 5px;
 }
 
 
@@ -36,7 +36,7 @@ padding: 0;
   font-family: Calibri;
   font-size: 15px;
   width: 100%;
-  display: inline-block;
+  display: inline;
 }
 #prop1 {
   width: 25%;

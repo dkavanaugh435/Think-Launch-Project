@@ -17,6 +17,8 @@
   <div id = "homepage-header">
     <h1> Welcome (fill this in) </h1>
   </div>
+  #how to add search bar here?
+
 </div>
 <div class ="value-props">
   <div id="prop1">
@@ -32,6 +34,8 @@
   </div>
 </div>
 
+#why are these not sitting correctly??
+
 <div class= "special-shows">
   <div id= "Near You">
     <h3> Upcoming Shows Near You</h3>
@@ -45,3 +49,5 @@
     <h3> Rising Artists </h3>
   </div>
 </div>
+
+#why are u not centered??
