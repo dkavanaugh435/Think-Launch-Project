@@ -51,3 +51,13 @@
 </div>
 
 #why are u not centered??
+
+<div class= "main menu">
+  <div id= "About">
+  <h3>About Us</h3>
+</div>
+
+<div id= "FAQ">
+  <h3>FAQ</h3>
+</div>
+</div>
