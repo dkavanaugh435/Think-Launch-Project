@@ -19,6 +19,7 @@ padding: 0;
   background-position: center;
   background-size: cover;
   height: 500px;
+  top: 25%;
   width: 80%;
   left: 20%;
 }
@@ -40,16 +41,19 @@ padding: 0;
 #prop1 {
   width: 25%;
   background-image: url("https://raw.githubusercontent.com/dkavanaugh435/Think-Launch-Project/master/First%20Project/Webpage%20Elements/Images/discover.jpg");
+  display: inline;
 }
 
 #prop2 {
   width: 25%;
   background-image: url("https://raw.githubusercontent.com/dkavanaugh435/Think-Launch-Project/master/First%20Project/Webpage%20Elements/Images/connect.jpeg");
+  display: inline;
 }
 
 #prop3 {
   width: 25%;
   background-image: url("https://raw.githubusercontent.com/dkavanaugh435/Think-Launch-Project/master/First%20Project/Webpage%20Elements/Images/pexels-photo-167579.jpeg");
+  display: inline;
 }
 
 .special-shows {
