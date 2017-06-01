@@ -3,14 +3,14 @@
 <strong>
 User Story:
 </strong>
-As a concert buddy seeker to a specific concert, I can search for upcoming shows in my area to find other people that are going.
+As someone seeking a concert buddy to a specific festival or concert, I can search for the artist or festival and match with other fans that are attending the show.
 
 <strong>
 Acceptance Criteria:
 </strong>
 
 <ul>
-There should be a search bar that autopopulates with suggestions on a dropdown list as the user types letters.
+There should be a search bar that auto-populates with suggestions on a dropdown list as the user types letters.
 I should be able to see artist name, venue, location
 The results should filter from closest to farthest locations to the user
 If there is nothing meeting that exact spelling, the phrase
@@ -18,18 +18,57 @@ No results" should pop-up and below that there should be an option to request th
 The matching artist options should be clickable
 Once clicked the user will be redirected to a page that searches for other users to match with
 </ul>
-<ul
 
-Given: Someone with a concert ticket and a list of that artist's shows
-When: I am looking for a concert buddy to a specific shows
-Then: iI can click on the nearest show in the search results and click to match with users
-</ul>
+<strong>Given:</strong> Someone with a concert ticket and a database of concerts and festivals
+<strong>When: </strong>I am looking for a concert buddy to a specific shows
+<strong>Then:</strong> iI can click on the nearest show in the search results and click to match with users
+
 
 <strong>
-As a concert-buddy seeker, I can search for upcoming shows in my area to find other people that are going
+User Story:
 </strong>
-<ul
+As a fan looking for an artist's upcoming shows, I can type in the artists names and see their number of upcoming shows and festival appearances.
 
+<strong>
+Acceptance Criteria:
+</strong>
+<ul>
+There should be a list of matching artist's names
+I should be able to see the artists names and the number of upcoming shows
+If there are no matching artist names the phrase "No Results. Click here to request to add this artist to our site?"
+The list of artist names should be clickable so I can select the artist I want to see
+The list of artist names should be exact matches, if multiple results it will be filtered by popularity
+</ul>
+
+<strong>Given:</strong>  A music artist's fan, a database of upcoming concerts and festivals
+<strong>When: </strong> I am looking for a specific artists upcoming shows and festival appearences
+<strong>Then:</strong> I can click on "Artist Name - 3 Upcoming Shows"
+
+strong>
+User Story:
+</strong>
+As a fan looking for upcoming shows at a specific venue, I can type in the venue name and see results based on location to me.
+
+<strong>
+Acceptance Criteria:
+</strong>
+<ul>
+There should be a list of matching artist's names
+I should be able to see the artists names and the number of upcoming shows
+If there are no matching artist names the phrase "No Results. Click here to request to add this artist to our site?"
+The list of artist names should be clickable so I can select the artist I want to see
+The list of artist names should be exact matches, if multiple results it will be filtered by popularity
+Artist name with characters and numbers:
+-Numbers: Case-by-case basis?
+-Accents: user's dont need to type accents. The search engine will accept either the accented version or with regular letter.
+-Punctuation: will be ignored.
+</ul>
+
+<strong>Given:</strong>  A music artist's fan, a database of upcoming concerts and festivals
+<strong>When: </strong> I am looking for a specific artists upcoming shows and festival appearences
+<strong>Then:</strong> I can click on "Artist Name - 3 Upcoming Shows"
+
+#add location based functionality
 If I search a concert, the search bar will autopopulate with options based on location
 If I search an artist, the search bar will autopopulate with options of that artist
 If I select a show, the app will connect with potential people to go with
